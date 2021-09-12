@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @paul-coder-22
-- 👀 |- interested in Data.
-- 🌱  |- currently learning the databases.
-- 💞️   |- looking at you *.*.
+- 👋 Hi, I’m paul
+- 👀 |- interested in Data and web.
 - 📫 How to reach me kironpaul889@gmail.com.
 
 <!---
