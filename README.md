@@ -1,5 +1,5 @@
 - 👋 Hi, I’m paul
-- 👀 |- interested in Data and web.
+- 👀 | - interested in Data and web.
 - 📫 How to reach me kironpaul889@gmail.com.
 
 <!---
