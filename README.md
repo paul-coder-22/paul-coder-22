@@ -1,4 +1,4 @@
-- 👋 Hi, I’m paul
+- 👋 Hi, I’m **Paul**
 - 👀 | - interested in Data and web.
 - 📫 How to reach me kironpaul889@gmail.com.
 
